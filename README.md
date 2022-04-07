@@ -33,7 +33,7 @@ I am a  student from Beijing Institute of Technology. My major is artificial int
 - 🔭 I’m currently working on Image2Image translation  
   
 
-- 🌱 I’m currently learning 《统计学习方法》and 《最优化：建模、算法与理论》  
+- 🌱 I’m currently learning 《统计学习方法》,《机器学习》.  
 
 
 </td><td valign="top" width="50%">
