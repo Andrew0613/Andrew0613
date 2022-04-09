@@ -30,7 +30,7 @@ I am a  student from Beijing Institute of Technology. My major is artificial int
 ## What am I doing lately
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Image2Image translation  
+- 🔭 I’m currently working on Image2Image translation and image captioning using clip
   
 
 - 🌱 I’m currently learning 《统计学习方法》,《机器学习》.  
