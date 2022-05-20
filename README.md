@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I am a  student from Beijing Institute of Technology. My major is artificial intelligence. My research interests are cooperative games and computer vision  
+I am a  student from Beijing Institute of Technology. My major is artificial intelligence. My research interests are deep learning and computer vision
   
 
 <br/>  
