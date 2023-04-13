@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I am a  student from Beijing Institute of Technology. My major is artificial intelligence. My research interests are deep learning and computer vision
+I am currently a joint PhD student in Shanghai Jiao Tong University and Shanghai AI Lab, supervised by Prof. Chao Dong. I will receive my Bachelor degree from Beijing Institute of Technology in 2023.
   
 
 <br/>  
@@ -30,10 +30,10 @@ I am a  student from Beijing Institute of Technology. My major is artificial int
 ## What am I doing lately
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Image2Image translation and image captioning using clip
+- 🔭 I’m currently working on General Low-level Vision.
   
 
-- 🌱 I’m currently learning 《统计学习方法》,《机器学习》.  
+- 🌱 I’m currently learning PRML and Digital Image Processing.  
 
 
 </td><td valign="top" width="50%">
