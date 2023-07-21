@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I am currently a joint PhD student in Shanghai Jiao Tong University and Shanghai AI Lab, supervised by Prof. Chao Dong. I will receive my Bachelor degree from Beijing Institute of Technology in 2023.
+I am currently a joint PhD student in Shanghai Jiao Tong University and Shanghai AI Lab, supervised by Prof. Chao Dong. I have received my Bachelor degree from Beijing Institute of Technology in 2023.
   
 
 <br/>  
